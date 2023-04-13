@@ -90,3 +90,8 @@ button{
 button:hover{
     background-color: #e9e9e9;
 }
+
+.group-image{
+    text-align: center;
+    padding: 10px 20px; 
+}
